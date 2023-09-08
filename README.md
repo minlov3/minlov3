@@ -10,7 +10,7 @@
 
 <h3 align="left"> Education </h3>
 
-- Ph.D. Mathematics, Sep. 2020 -- now  
+- Ph.D. Mathematics, Sep. 2020 -- now 
 Xi'an Jiaotong University, Beilin district, Xi'an 
 Thesis Advisor: Prof. Wenjing Yan 
 
