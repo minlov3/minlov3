@@ -54,4 +54,14 @@ High-order Galerkin time discretizations for time-dependent equations
 
 <h3 align="left"> Collaborators </h3>
 
-<h4 align="left"> Collaborators </h4>
+<h4 align="left"> Wenjing Yan </h4>
+Collaborative research direction: 
+DG, wave
+
+
+Brief introduction: 
+Professor, School of Mathematics and Statistics, Xi'an Jiaotong University  
+
+[https://gr.xjtu.edu.cn/en/web/wenjingyan](Mainpage: https://gr.xjtu.edu.cn/en/web/wenjingyan)
+[https://mathscinet.ams.org/mathscinet/MRAuthorID/800045](MathscinetID: https://mathscinet.ams.org/mathscinet/MRAuthorID/800045)
+
