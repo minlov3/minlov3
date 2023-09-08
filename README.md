@@ -9,22 +9,18 @@
                        and [ResearchGate](https://www.researchgate.net/profile/Min-Zhang-257)
 
 <h3 align="left"> Education </h3>
-\item \ed{
-\textbf{Ph.D. Mathematics}, \emph{Sep. 2020 -- now } \par
-{\itshape Xi'an Jiaotong University, Beilin district, Xi'an} \par
-{\itshape Thesis Advisor: Prof. Wenjing Yan}
-}
 
-\item \ed{%
-\textbf{M.S. Mathematics}, \emph{Sep. 2018 -- Jun. 2020} \par
-{\itshape Xi'an Jiaotong University, Beilin district, Xi'an} \par
-{\itshape Advisor: Prof. Yinnian He}
-}
+Ph.D. Mathematics, Sep. 2020 -- now  
+Xi'an Jiaotong University, Beilin district, Xi'an 
+Thesis Advisor: Prof. Wenjing Yan 
 
-\item \ed{%
-\textbf{B.A. Mathematics}, \emph{Sep. 2013 -- Jun. 2017} \par
-{\itshape Jiangnan University, Binhu district, Wu'xi} \par
-{\itshape Thesis Advisor: Prof. Yongqing Yang}
+M.S. Mathematics, Sep. 2018 -- Jun. 2020 
+Xi'an Jiaotong University, Beilin district, Xi'an
+Advisor: Prof. Yinnian He 
+
+B.A. Mathematics, Sep. 2013 -- Jun. 2017 
+Jiangnan University, Binhu district, Wu'xi 
+Thesis Advisor: Prof. Yongqing Yang
 
 <h3 align="left">Connect with me:</h3>
 
