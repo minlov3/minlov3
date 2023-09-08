@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me</h3>
 
-- 💬 Phone +86 17868882156 / +44 7783318073 
+## - 💬 Phone +86 17868882156 / +44 7783318073 
 - 📫 Email [1287951827@qq.com](1287951827@qq.com)
 - 📫 Email [minlov3@stu.xjtu.edu.cn](minlov3@stu.xjtu.edu.cn)  
 - 📫 Email [mz2041@hw.ac.uk](mz2041@hw.ac.uk)  
