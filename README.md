@@ -10,16 +10,16 @@
 
 <h3 align="left"> Education </h3>
 
-- Ph.D. Mathematics, Sep. 2020 -- now 
-Xi'an Jiaotong University, Beilin district, Xi'an 
+- Ph.D. Mathematics, Sep. 2020 -- now
+  Xi'an Jiaotong University, Beilin district, Xi'an 
 Thesis Advisor: Prof. Wenjing Yan 
 
-- M.S. Mathematics, Sep. 2018 -- Jun. 2020 
-Xi'an Jiaotong University, Beilin district, Xi'an
+- M.S. Mathematics, Sep. 2018 -- Jun. 2020
+  Xi'an Jiaotong University, Beilin district, Xi'an
 Advisor: Prof. Yinnian He 
 
-- B.A. Mathematics, Sep. 2013 -- Jun. 2017 
-Jiangnan University, Binhu district, Wu'xi 
+- B.A. Mathematics, Sep. 2013 -- Jun. 2017
+  Jiangnan University, Binhu district, Wu'xi 
 Thesis Advisor: Prof. Yongqing Yang
 
 
