@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minlov3&label=Profile%20views&color=0e75b6&style=flat" alt="minlov3" /> </p>
 
-- I’m currently a Phd candidate, study on [School of Mathematics and statistics Xi'an Jiaotong University](http://math.xjtu.edu.cn/), Xi'an Jiaotong University, China 
+- I’m currently a PHD candidate, study on [School of Mathematics and statistics](http://math.xjtu.edu.cn/) of Xi'an Jiaotong University, China 
 
 - You can find my works in [Mathscinet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1526110) (ID: 1526110)
                        and [ResearchGate](https://www.researchgate.net/profile/Min-Zhang-257)
