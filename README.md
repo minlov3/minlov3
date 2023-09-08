@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minlov3&label=Profile%20views&color=0e75b6&style=flat" alt="minlov3" /> </p>
 
-- I’m currently a PHD candidate, study on [School of Mathematics and statistics](http://math.xjtu.edu.cn/) of Xi'an Jiaotong University, China 
+- I’m currently a PhD candidate, study on [School of Mathematics and statistics](http://math.xjtu.edu.cn/) of Xi'an Jiaotong University, China 
 
 - You can find my works in [Mathscinet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1526110) (ID: 1526110)
                        and [ResearchGate](https://www.researchgate.net/profile/Min-Zhang-257)
@@ -33,7 +33,6 @@ Thesis Advisor: Prof. Yongqing Yang
 
 
 
-
 <h3 align="left"> Scientific research </h3>
 
 Basically, my research field is the analysis and simulation of numerical solutions of partial differential equations.
@@ -52,3 +51,7 @@ hp-FEM and hp-adaptivity,
 A posteriori error estimation,
 High-order Galerkin time discretizations for time-dependent equations
 
+
+<h3 align="left"> Collaborators </h3>
+
+<h4 align="left"> Collaborators </h4>
