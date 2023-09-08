@@ -56,7 +56,7 @@ High-order Galerkin time discretizations for time-dependent equations
 
 Min Zhang, Wenjing Yan, Feifei Jing, Haixia Zhao.
 Discontinuous Galerkin method for the diffusive-viscous wave equation.  
-Appl. Numer. Math. 183 (2023), 118–139.  
+Appl. Numer. Math. 183 (2023), 118–139.
 [https://doi.org/10.1016/j.apnum.2022.08.014](https://doi.org/10.1016/j.apnum.2022.08.014)
  
  
