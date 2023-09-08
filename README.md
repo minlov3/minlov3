@@ -8,6 +8,9 @@
 - You can find my works in [Mathscinet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1526110) (ID: 1526110)
                        and [ResearchGate](https://www.researchgate.net/profile/Min-Zhang-257)
 
+<h3 align="left">Education:</h3>
+
+
 <h3 align="left">Connect with me:</h3>
 
 - 💬 Phone +86 17868882156 / +44 7783318073 
