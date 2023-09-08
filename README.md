@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Home page of Min Zhang</h1>
-<h2 align="center">   </h2>
+ 
 
 
 - I’m currently a PhD candidate, study on [School of Mathematics and statistics](http://math.xjtu.edu.cn/) of Xi'an Jiaotong University, China 
@@ -12,7 +12,7 @@
                        and [ResearchGate](https://www.researchgate.net/profile/Min-Zhang-257)
 
 
-<h3 align="left">Connect with me</h3>
+<h2 align="left">Connect with me</h2>
 
 <!--- 💬 Phone +86 17868882156 / +44 7783318073 --->
 - 📫 Email [1287951827@qq.com](1287951827@qq.com)
