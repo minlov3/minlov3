@@ -9,7 +9,7 @@
                        and [ResearchGate](https://www.researchgate.net/profile/Min-Zhang-257)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 
 - 💬 Phone +86 17868882156 / +44 7783318073 
 - 📫 Email [1287951827@qq.com](1287951827@qq.com)
@@ -34,7 +34,7 @@ Thesis Advisor: Prof. Yongqing Yang
 
 
 
-<p align="left">
+<p align="left"> Scientific research
 </p>
 
 
