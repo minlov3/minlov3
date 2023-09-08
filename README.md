@@ -57,12 +57,12 @@ High-order Galerkin time discretizations for time-dependent equations
 
 <h3 align="left"> Publications </h3>
 
-10. Min Zhang, Wenjing Yan, Feifei Jing, Haixia Zhao.
+1. Min Zhang, Wenjing Yan, Feifei Jing, Haixia Zhao.
 Discontinuous Galerkin method for the diffusive-viscous wave equation.  
 Appl. Numer. Math. 183 (2023), 118–139.
 [https://doi.org/10.1016/j.apnum.2022.08.014](https://doi.org/10.1016/j.apnum.2022.08.014)
  
-0. Yongbin Han, Yanren Hou, Min Zhang. 
+4. Yongbin Han, Yanren Hou, Min Zhang. 
 Analysis of divergence-free $H^1$ conforming FEM with IMEX-SAV scheme for the Navier-Stokes equations at high Reynolds number.   
 Math. Comp. 92 (2023), no. 340, 557–582.
 [https://doi.org/10.1090/mcom/3790](https://doi.org/10.1090/mcom/3790)
