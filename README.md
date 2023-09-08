@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Home page of Min Zhang</h1>
-<h3 align="center">   </h3>
+<h2 align="center">   </h2>
 
 
 - I’m currently a PhD candidate, study on [School of Mathematics and statistics](http://math.xjtu.edu.cn/) of Xi'an Jiaotong University, China 
