@@ -5,9 +5,7 @@
 
 - I’m currently study on [School of Mathematics and statistics Xi'an Jiaotong University](http://math.xjtu.edu.cn/)
 
-- You can find my works in [Mathscinet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1526110)
-
-- [ResearchGate](https://www.researchgate.net/profile/Min-Zhang-257)
+- You can find my works in [Mathscinet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1526110) and [ResearchGate](https://www.researchgate.net/profile/Min-Zhang-257)
 
 - 💬 Phone **+86 17868882156 / +44 7783318073**
 
