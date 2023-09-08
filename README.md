@@ -36,5 +36,19 @@ Thesis Advisor: Prof. Yongqing Yang
 
 <h3 align="left"> Scientific research </h3>
 
+Basically, my research field is the analysis and simulation of numerical solutions of partial differential equations.
 
+- PDEs  
+Incompressible flow/elasticity problems, Wave equations
+	
+- Methods  
+Continuous Galerkin FEM, Discontinuous Galerkin FEM 
+	
+- Interweave topics  
+Pressure Robust, 
+Hdiv-conforming, 
+the lowest regularity, 
+hp-FEM and hp-adaptivity, 
+A posteriori error estimation,
+High-order Galerkin time discretizations for time-dependent equations
 
