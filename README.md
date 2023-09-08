@@ -62,6 +62,6 @@ DG, wave
 Brief introduction: 
 Professor, School of Mathematics and Statistics, Xi'an Jiaotong University  
 
-[Mainpage: https://gr.xjtu.edu.cn/en/web/wenjingyan](https://gr.xjtu.edu.cn/en/web/wenjingyan)
+[Mainpage: https://gr.xjtu.edu.cn/en/web/wenjingyan](https://gr.xjtu.edu.cn/en/web/wenjingyan)  
 [MathscinetID: https://mathscinet.ams.org/mathscinet/MRAuthorID/800045](https://mathscinet.ams.org/mathscinet/MRAuthorID/800045)
 
