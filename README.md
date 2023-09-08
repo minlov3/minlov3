@@ -11,7 +11,8 @@
 
 - 💬 Phone +86 17868882156 / +44 7783318073 
 
-- 📫 Email [1287951827@qq.com](1287951827@qq.com)  
+- 📫 Email [1287951827@qq.com](1287951827@qq.com)
+- 📫 Email [minlov3@stu.xjtu.edu.cn](minlov3@stu.xjtu.edu.cn)  
 
 
 <p align="left">
