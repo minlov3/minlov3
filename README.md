@@ -20,7 +20,7 @@
 - 📫 Email [mz2041@hw.ac.uk](mz2041@hw.ac.uk)  
 
 
-<h3 align="left"> Education </h3>
+<h2 align="left"> Education </h2>
 
 - Ph.D. Mathematics, Sep. 2020 -- now  
 Xi'an Jiaotong University, Beilin district, Xi'an   
@@ -36,7 +36,7 @@ Thesis Advisor: Prof. Yongqing Yang
 
 
 
-<h3 align="left"> Scientific research </h3>
+<h2 align="left"> Scientific research </h2>
 
 Basically, my research field is the analysis and simulation of numerical solutions of partial differential equations.
 
@@ -55,7 +55,7 @@ A posteriori error estimation,
 High-order Galerkin time discretizations for time-dependent equations
 
 
-<h3 align="left"> Publications </h3>
+<h2 align="left"> Publications </h2>
 
 1. ```Min Zhang```, Wenjing Yan, Feifei Jing, Haixia Zhao.
 Discontinuous Galerkin method for the diffusive-viscous wave equation.  
