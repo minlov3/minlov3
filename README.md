@@ -9,7 +9,7 @@
 
 %- 💬 Phone **+86 17868882156 / +44 7783318073**
 
-- 📫 Email [1287951827@qq.com](1287951827@qq.com)**1287951827@qq.com** **1287951827@qq.com**
+- 📫 Email [1287951827@qq.com](1287951827@qq.com)**1287951827@qq.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
