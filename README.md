@@ -34,8 +34,7 @@ Thesis Advisor: Prof. Yongqing Yang
 
 
 
-<p align="left"> Scientific research
-</p>
+<h3 align="left"> Scientific research </h3>
 
 
 
