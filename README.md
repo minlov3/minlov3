@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Min Zhang</h1>
+<h1 align="center">Homepage of Min Zhang</h1>
 <h3 align="center">Phd candidate, Xi'an Jiaotong University, China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minlov3&label=Profile%20views&color=0e75b6&style=flat" alt="minlov3" /> </p>
