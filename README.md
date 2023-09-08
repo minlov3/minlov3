@@ -52,15 +52,13 @@ A posteriori error estimation,
 High-order Galerkin time discretizations for time-dependent equations
 
 
-<h3 align="left"> Collaborators </h3>
+<h3 align="left"> Publications </h3>
 
-<h4 align="left"> Wenjing Yan </h4>
-Collaborative research direction: 
-DG, wave  
+Min Zhang, Wenjing Yan, Feifei Jing, Haixia Zhao.
+Discontinuous Galerkin method for the diffusive-viscous wave equation.
 
-Brief introduction: 
-Professor, School of Mathematics and Statistics, Xi'an Jiaotong University  
-
-[Mainpage: https://gr.xjtu.edu.cn/en/web/wenjingyan](https://gr.xjtu.edu.cn/en/web/wenjingyan)  
-[MathscinetID: https://mathscinet.ams.org/mathscinet/MRAuthorID/800045](https://mathscinet.ams.org/mathscinet/MRAuthorID/800045)
+Appl. Numer. Math. 183 (2023), 118–139.  
+[https://doi.org/10.1016/j.apnum.2022.08.014](https://doi.org/10.1016/j.apnum.2022.08.014)
+ 
+ 
 
