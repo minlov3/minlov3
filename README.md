@@ -54,8 +54,9 @@ Hdiv-conforming,
 the lowest regularity, 
 hp-FEM and hp-adaptivity, 
 A posteriori error estimation,
-High-order Galerkin time discretizations for time-dependent equations,
-in the future: Numerical homogenization, FEEC.
+High-order Galerkin time discretizations for time-dependent equations.
+
+In the future: Numerical homogenization, FEEC.
 
 
 <h2 align="left"> Publications </h2>
