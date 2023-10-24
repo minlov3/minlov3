@@ -56,7 +56,7 @@ hp-FEM and hp-adaptivity,
 A posteriori error estimation,
 High-order Galerkin time discretizations for time-dependent equations.
 
-Added to my field in the future: Numerical homogenization, FEEC.
+- Added to my field in the future: Numerical homogenization, FEEC.
 
 
 <h2 align="left"> Publications </h2>
