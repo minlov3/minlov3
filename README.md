@@ -8,7 +8,7 @@
 
 - I’m currently a PhD candidate, study on [School of Mathematics and statistics](http://math.xjtu.edu.cn/) of Xi'an Jiaotong University, China
 
-- Visiting PhD, Heriot-watt Univeristy, Edinburgh, 2023,6-2024,5.
+- Visiting PhD, Heriot-watt Univeristy, Edinburgh, 2023/6-2024/5.
 
 - You can find my works in [Mathscinet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1526110) (ID: 1526110)
                        and [ResearchGate](https://www.researchgate.net/profile/Min-Zhang-257)
