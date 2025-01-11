@@ -26,7 +26,7 @@
 Xi'an Jiaotong University, Beilin district, Xi'an   
 Thesis Advisor: Prof. Wenjing Yan  
 
-- Visiting PhD, Heriot-watt Univeristy, Edinburgh, 2023/6-2024/5.
+- Visiting PhD, Heriot-watt Univeristy, Edinburgh, 2023/6-2024/6.
 
 - M.S. Mathematics, Sep. 2018 -- Jun. 2020  
 Xi'an Jiaotong University, Beilin district, Xi'an  
