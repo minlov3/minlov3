@@ -8,8 +8,6 @@
 
 - I’m currently a PhD candidate, study on [School of Mathematics and statistics](http://math.xjtu.edu.cn/) of Xi'an Jiaotong University, China
 
-- Visiting PhD, Heriot-watt Univeristy, Edinburgh, 2023/6-2024/5.
-
 - You can find my works in [Mathscinet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1526110) (ID: 1526110)
                        and [ResearchGate](https://www.researchgate.net/profile/Min-Zhang-257)
 
@@ -27,6 +25,8 @@
 - Ph.D. Mathematics, Sep. 2020 -- now  
 Xi'an Jiaotong University, Beilin district, Xi'an   
 Thesis Advisor: Prof. Wenjing Yan  
+
+- Visiting PhD, Heriot-watt Univeristy, Edinburgh, 2023/6-2024/5.
 
 - M.S. Mathematics, Sep. 2018 -- Jun. 2020  
 Xi'an Jiaotong University, Beilin district, Xi'an  
