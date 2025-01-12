@@ -18,7 +18,7 @@
 - 📫 Private Email [1287951827@qq.com](1287951827@qq.com)
 - 📫 School Email [minlov3@stu.xjtu.edu.cn](minlov3@stu.xjtu.edu.cn)  
 
-<p hidden> 📫 School Email [mz2041@hw.ac.uk](mz2041@hw.ac.uk)   </p>
+<p hidden>  📫 School Email [mz2041@hw.ac.uk](mz2041@hw.ac.uk)   </p>
 
 <h2 align="left"> Education </h2>
 
