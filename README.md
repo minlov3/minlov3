@@ -43,7 +43,7 @@ Thesis Advisor: Prof. Yongqing Yang
 Basically, my research field is the analysis and simulation of numerical solutions of partial differential equations.
 
 - PDEs  
-Incompressible flow, Elasticity problems, Wave equations
+Incompressible flows, Elasticity problems, Wave equations
 	
 - Methods  
 Continuous Galerkin FEM, Discontinuous Galerkin FEM 
@@ -56,7 +56,9 @@ hp-FEM and hp-adaptivity,
 A posteriori error estimation,
 High-order Galerkin time discretizations for time-dependent equations.
 
-- Added to my field in the future: Numerical homogenization.
+- Added to my field in the future: Numerical homogenization, FEEC.
+Look forward to learning these topics together
+ 
 
 
 <h2 align="left"> Publications </h2>
