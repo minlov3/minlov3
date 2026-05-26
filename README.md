@@ -85,7 +85,7 @@ Mathematics of Computation. 2023.
 
 [https://doi.org/10.1090/mcom/3790](https://doi.org/10.1090/mcom/3790)
 
-3. ```Min Zhang```, Zhaonan Dong, Wenjing Yan.
+5. ```Min Zhang```, Zhaonan Dong, Wenjing Yan.
 $hp$-version discontinuous Galerkin time-stepping schemes for diffusive-viscous wave equation.
 
 Computers & Mathematics with Applications. 2025.
