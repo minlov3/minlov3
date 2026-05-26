@@ -55,7 +55,7 @@ Incompressible flows, Elasticity problems, Wave equations
 - Methods  
 Continuous Galerkin FEM, Discontinuous Galerkin FEM 
 
-- Added to my field in the future
+- Added to my field in the future          
 Numerical homogenization, PINN.
 Look forward to learning these topics together
  
