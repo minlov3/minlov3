@@ -29,7 +29,7 @@
 Hunan University of Technology and Business, Changsha
 
 - Ph.D. Mathematics. Sep. 2020 -- Dec. 2025  
-Xi'an Jiaotong University, Beilin district, Xi'an   
+Xi'an Jiaotong University, Xi'an   
 Advisor: Prof. Wenjing Yan  
 
 - Visiting Ph.D. Mathematics. Jun. 2023 -- Jun. 2024     
@@ -37,11 +37,11 @@ Heriot-watt Univeristy, Edinburgh, UK
 Advisor: Prof. Emmanuil H Georgoulis  
 
 - M.S. Mathematics. Sep. 2018 -- Jun. 2020  
-Xi'an Jiaotong University, Beilin district, Xi'an  
+Xi'an Jiaotong University, Xi'an  
 Advisor: Prof. Yinnian He   
 
 - B.A. Mathematics. Sep. 2013 -- Jun. 2017  
-Jiangnan University, Binhu district, Wu'xi   
+Jiangnan University, Wu'xi   
 Advisor: Prof. Yongqing Yang  
 
 
