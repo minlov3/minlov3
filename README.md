@@ -23,7 +23,7 @@
 <!-- 📫 School Email [mz2041@hw.ac.uk](mz2041@hw.ac.uk) -->
 
 
-<h2 align="left"> Education and Work Experience </h2>
+<h2 align="left"> Education and work experience </h2>
 
 - Lecture. Dec. 2025 -- Now  
 Hunan University of Technology and Business, Changsha
