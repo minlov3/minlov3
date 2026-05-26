@@ -44,6 +44,11 @@ Advisor: Prof. Yongqing Yang
 
 <h2 align="left"> Work Experience </h2>
 
+- Lecture. Dec. 2025 -- Now  
+Hunan University of Technology and Business, Changsha  
+
+
+
 <h2 align="left"> Scientific research </h2>
 
 Basically, my research field is the analysis and simulation of numerical solutions of partial differential equations.
