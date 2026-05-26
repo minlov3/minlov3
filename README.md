@@ -67,8 +67,7 @@ Look forward to learning these topics together
 
 1. ```Min Zhang```, Wenjing Yan, Feifei Jing, Haixia Zhao.
 Discontinuous Galerkin method for the diffusive-viscous wave equation.
-Applied Numerical Mathematics.
-2023.
+Applied Numerical Mathematics. 2023.
 [https://doi.org/10.1016/j.apnum.2022.08.014](https://doi.org/10.1016/j.apnum.2022.08.014)
 
  
