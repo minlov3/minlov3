@@ -25,19 +25,19 @@
 
 <h2 align="left"> Education </h2>
 
-- Ph.D. Mathematics, Sep. 2020 -- Dec. 2025  
+- Ph.D. Mathematics. Sep. 2020 -- Dec. 2025  
 Xi'an Jiaotong University, Beilin district, Xi'an   
 Thesis Advisor: Prof. Wenjing Yan  
 
-- Visiting PhD, Jun. 2023 -- Jun. 2024
+- Visiting Ph.D. Mathematics. Jun. 2023 -- Jun. 2024
 Heriot-watt Univeristy, Edinburgh
 Thesis Advisor: Prof. Emmanuil H Georgoulis  
 
-- M.S. Mathematics, Sep. 2018 -- Jun. 2020  
+- M.S. Mathematics. Sep. 2018 -- Jun. 2020  
 Xi'an Jiaotong University, Beilin district, Xi'an  
 Advisor: Prof. Yinnian He   
 
-- B.A. Mathematics, Sep. 2013 -- Jun. 2017  
+- B.A. Mathematics. Sep. 2013 -- Jun. 2017  
 Jiangnan University, Binhu district, Wu'xi   
 Thesis Advisor: Prof. Yongqing Yang  
 
