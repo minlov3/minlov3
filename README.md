@@ -54,16 +54,8 @@ Incompressible flows, Elasticity problems, Wave equations
 	
 - Methods  
 Continuous Galerkin FEM, Discontinuous Galerkin FEM 
-	
-- Interweave topics  
-Pressure Robust, 
-Hdiv-conforming, 
-the lowest regularity, 
-hp-FEM and hp-adaptivity, 
-A posteriori error estimation,
-High-order Galerkin time discretizations for time-dependent equations.
 
-- Added to my field in the future: Numerical homogenization, FEEC.
+- Added to my field in the future: Numerical homogenization, PINN.
 Look forward to learning these topics together
  
 
