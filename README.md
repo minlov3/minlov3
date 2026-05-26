@@ -6,7 +6,7 @@
  
 - I’m currently a lecture, work on [School of Computer Science](https://cee.hutb.edu.cn/) of Hunan University Of Technology and Business, China
 
-- I was 是 a PhD candidate, study on [School of Mathematics and Statistics](http://math.xjtu.edu.cn/) of Xi'an Jiaotong University, China
+- I was a PhD candidate, study on [School of Mathematics and Statistics](http://math.xjtu.edu.cn/) of Xi'an Jiaotong University, China
 
 - You can find my works in [Mathscinet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1526110) (ID: 1526110)
                        and [ResearchGate](https://www.researchgate.net/profile/Min-Zhang-257)
@@ -15,19 +15,17 @@
 <h2 align="left">Connect with me</h2>
 
 <!--- 💬 Phone +86 17868882156 / +44 7783318073 --->
-
 <!-- 📫 Private Email [1287951827@qq.com](1287951827@qq.com) -->
 
 - 📫 School Email [minzx096@hutb.edu.cn](minzx096@hutb.edu.cn)
   
 <!-- 📫 School Email [minlov3@stu.xjtu.edu.cn](minlov3@stu.xjtu.edu.cn) -->
-  
 <!-- 📫 School Email [mz2041@hw.ac.uk](mz2041@hw.ac.uk) -->
 
 
 <h2 align="left"> Education </h2>
 
-- Ph.D. Mathematics, Sep. 2020 -- now  
+- Ph.D. Mathematics, Sep. 2020 -- Dec. 2025  
 Xi'an Jiaotong University, Beilin district, Xi'an   
 Thesis Advisor: Prof. Wenjing Yan  
 
