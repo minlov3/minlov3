@@ -23,7 +23,10 @@
 <!-- 📫 School Email [mz2041@hw.ac.uk](mz2041@hw.ac.uk) -->
 
 
-<h2 align="left"> Education </h2>
+<h2 align="left"> Education and Work Experience </h2>
+
+- Lecture. Dec. 2025 -- Now  
+Hunan University of Technology and Business, Changsha
 
 - Ph.D. Mathematics. Sep. 2020 -- Dec. 2025  
 Xi'an Jiaotong University, Beilin district, Xi'an   
@@ -40,13 +43,6 @@ Advisor: Prof. Yinnian He
 - B.A. Mathematics. Sep. 2013 -- Jun. 2017  
 Jiangnan University, Binhu district, Wu'xi   
 Advisor: Prof. Yongqing Yang  
-
-
-<h2 align="left"> Work Experience </h2>
-
-- Lecture. Dec. 2025 -- Now  
-Hunan University of Technology and Business, Changsha  
-
 
 
 <h2 align="left"> Scientific research </h2>
