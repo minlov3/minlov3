@@ -29,7 +29,9 @@
 Xi'an Jiaotong University, Beilin district, Xi'an   
 Thesis Advisor: Prof. Wenjing Yan  
 
-- Visiting PhD, Heriot-watt Univeristy, Edinburgh, 2023/6-2024/6.
+- Visiting PhD, 2023/6-2024/6
+Heriot-watt Univeristy, Edinburgh
+Thesis Advisor: Prof. Emmanuil H Georgoulis  
 
 - M.S. Mathematics, Sep. 2018 -- Jun. 2020  
 Xi'an Jiaotong University, Beilin district, Xi'an  
@@ -40,6 +42,7 @@ Jiangnan University, Binhu district, Wu'xi
 Thesis Advisor: Prof. Yongqing Yang  
 
 
+<h2 align="left"> Work Experience </h2>
 
 <h2 align="left"> Scientific research </h2>
 
