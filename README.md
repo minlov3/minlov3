@@ -6,7 +6,7 @@
  
 - I’m currently a lecture, work on [School of Computer Science](https://cee.hutb.edu.cn/) of Hunan University Of Technology and Business, China
 
-- I’m currently a PhD candidate, study on [School of Mathematics and statistics](http://math.xjtu.edu.cn/) of Xi'an Jiaotong University, China
+- I was 是 a PhD candidate, study on [School of Mathematics and Statistics](http://math.xjtu.edu.cn/) of Xi'an Jiaotong University, China
 
 - You can find my works in [Mathscinet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1526110) (ID: 1526110)
                        and [ResearchGate](https://www.researchgate.net/profile/Min-Zhang-257)
