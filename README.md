@@ -76,7 +76,7 @@ Analysis of divergence-free $H^1$ conforming FEM with IMEX-SAV scheme for the Na
 Mathematics of Computation. 2023.
 [https://doi.org/10.1090/mcom/3790](https://doi.org/10.1090/mcom/3790)
 
-```Min Zhang```, Zhaonan Dong, Wenjing Yan.
+3. ```Min Zhang```, Zhaonan Dong, Wenjing Yan.
 hp-version discontinuous Galerkin time-stepping schemes for diffusive-viscous wave equation
 Computers & Mathematics with Applications. 2025.
 [https://doi.org/10.1016/j.camwa.2025.09.021](https://doi.org/10.1016/j.camwa.2025.09.021)
