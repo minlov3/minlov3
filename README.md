@@ -29,7 +29,7 @@
 Xi'an Jiaotong University, Beilin district, Xi'an   
 Advisor: Prof. Wenjing Yan  
 
-- Visiting Ph.D. Mathematics. Jun. 2023 -- Jun. 2024 
+- Visiting Ph.D. Mathematics. Jun. 2023 -- Jun. 2024     
 Heriot-watt Univeristy, Edinburgh, UK    
 Advisor: Prof. Emmanuil H Georgoulis  
 
