@@ -4,7 +4,7 @@
 
 <h1 align="center">Home page of Min Zhang</h1>
  
-- I’m currently a lecture, work on [School of Computer Science](https://cee.hutb.edu.cn/) of Hunan University Of Technology and Business, China
+- I’m currently a lecture, work on [School of Computer Science](https://cee.hutb.edu.cn/) of Hunan University of Technology and Business, China
 
 - I was a PhD candidate, study on [School of Mathematics and Statistics](http://math.xjtu.edu.cn/) of Xi'an Jiaotong University, China
 
